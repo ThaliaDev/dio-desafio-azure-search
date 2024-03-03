@@ -1,5 +1,5 @@
-## Introdução à Fala
-Nesse repositório será demonstrado o passo a passo para a utilização do Azure Speech Studio, com o objetivo de entender se as avaliações de texto são em sua maioria positivas ou negativas, entre outros.
+## Introdução à Azure AI Search
+Nesse repositório será demonstrado o passo a passo para a utilização do Azure AI Search, com o objetivo de entender como funciona a busca em documentos.
 
 #### Pré-requisitos
 Temos como pré-requisito a criação uma conta gratuita na Azure ou disponibilidade de créditos para uso.
